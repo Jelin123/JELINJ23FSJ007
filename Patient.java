@@ -1,4 +1,4 @@
-package edu.disease.asn1;
+package edu.disease.asn2;
 
 import java.util.UUID;
 

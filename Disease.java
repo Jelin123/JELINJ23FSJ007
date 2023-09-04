@@ -1,9 +1,10 @@
-package edu.disease.asn1;
+package edu.disease.asn2;
 
 import java.util.Objects;
 import java.util.UUID;
-public class Disease {
-	
+
+abstract class Disease {
+ abstract String[] getExamples();	
  private UUID diseaseId;
  private String name;
  
